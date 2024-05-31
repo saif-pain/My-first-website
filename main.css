@@ -1,0 +1,330 @@
+/* about me section starts */
+
+.about-me-title h1{
+    font-weight: 800;
+    font-size: 40px;
+    color: white;
+
+}
+.about-me-stars{
+    font-size: 32px;
+}
+.about-me-title-container{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+.about-me-desc-container p{
+    width: 541px;
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.about-me-year h1{
+    font-weight: 700;
+    font-size: 47px;
+    color: white;
+}
+.about-me-desc-container{
+    display: flex;
+    justify-content: space-between;
+}
+.about-me-exp h3{
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+}
+.about-me-exp{
+    display: flex;
+    justify-content: end;
+}
+.about-me-container{
+    padding-top: 70px;
+    margin: 70px 200px;
+}
+
+/* about me section ends */
+
+/* my-experience-section starts */
+
+.my-experience-first-part-title {
+    font-weight: 600;
+    font-size: 18px;
+    font-style: italic;
+    color: white;
+    padding: 10px 0px;
+    
+}
+
+.my-experience-first-part-title-heading{
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+    padding: 10px 0px;
+}
+
+.my-experience-first-part p{
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+    padding: 10px 0px;
+}
+.my-exp-year{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+}
+
+.my-exp-year h3{
+    font-weight: 700;
+    font-size: 18px;
+    font-style: italic;
+    color: white;;
+}
+
+.my-exp-project-name{
+    font-weight: 400;
+    color: white;
+    padding: 10px 0px;
+}
+
+.my-exp-role h1{
+    width: 504px;
+    font-weight: 700;
+    font-size: 32px;
+    color: white;
+    padding: 10px 0px;
+}
+.my-exp-desc{
+    border-bottom: solid white 1px;
+}
+.my-experience-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 70px 200px;
+    padding-top: 150px;
+    
+}
+
+.my-experience-container-full{
+    height: 632px;
+    background: linear-gradient(270.16deg, rgba(255, 177, 71, 0.1) 5.74%, rgba(255, 108, 99, 0.1) 50.64%, rgba(184, 106, 223, 0.1) 92.05%);
+
+}
+
+/* my-experience-section ends */
+
+/* award section starts */
+
+.awards-title{
+    font-weight: 800;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.awards-description{
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+}
+
+.award-content h2{
+    font-weight: 400;
+    font-size: 24px;
+    color: white;
+}
+.award-content p{
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.award-category{
+    font-weight: 700;
+    font-size: 18px;
+    color: white;
+}
+.award{
+    display: flex;
+    justify-content: space-between;
+    margin: 70px 200px;
+    background-color: black;
+    height: 219px;
+    align-items: center;
+    padding: 0px 50px;
+}
+.awards-section{
+    padding: 100px 0px;
+}
+
+/* award section ends */
+
+/* portfolio section starts */
+
+.Portfolio h2{
+    font-weight: 800;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.Portfolio p{
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    padding-bottom: 30px;
+}
+.portfolio-categories{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding-bottom: 30px;
+    
+}
+.portfolio-categories h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: white;
+    background-color: black;
+    padding: 15px;
+}
+
+.portfolio-categories h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: white;
+    background-color: #FD6F00;
+    padding: 15px;
+
+}
+.portfolio-item{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+    
+}
+
+.portfolio-details h3{
+    font-weight: 600;
+    font-size: 18px;
+    color: white;
+    font-style: italic;
+}
+.portfolio-details h2{
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+    text-align: left;
+}
+.portfolio-details p{
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.5);
+    text-align: left;
+}
+
+.Portfolio{
+    margin: 70px 200px;
+}
+
+/* portfolio section ends */
+
+/* contact container starts */
+
+.contact-container h2{
+    font-weight: 600;
+    font-size: 18px;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.contact-container h1{
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.form-container h2{
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+    font-style: normal;
+    text-align: left;
+    padding: 30px 0px;
+}
+
+.name-email h6{
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    
+}
+.name{
+    width: 375px;
+    padding: 5px 0px;
+    border-bottom: solid white 1px;
+}
+.email{
+    width: 375px;
+    text-align: left;
+    padding: 5px 0px;
+    border-bottom: solid white 1px;
+}
+
+.msg h6{
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    padding: 20px 0px;
+    border-bottom: solid white 1px;
+}
+.msg{
+    padding-bottom: 20px;
+}
+
+.link h6{
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+}
+.link{
+    display: flex;
+    padding-bottom:50px;
+}
+.name-email{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 40px;
+}
+
+.submit-now h6{
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+}
+.submit-now{
+    width: 183px;
+    height: 56px;
+    background-color: #FD6F00;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-container{
+    background-color:rgba(253, 111, 0, 0.1);
+    padding: 100px;
+}
+
+.contact-container{
+    margin: 70px 200px;
+}
+
+
+/* contact container ends */
+
