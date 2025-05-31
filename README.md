@@ -1,2 +1,2 @@
 # Live Preview
-https://saif-pain.github.io/My-first-website/
+https://saif-pain.github.io/html-exercises-one/
